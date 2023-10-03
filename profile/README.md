@@ -2,13 +2,12 @@
 
 We are olilo AI!
 
-olilo is an AI tool to connect and chat with all your digital data spread across multiple files, formats, and platforms. Chat with PDFs, docs, videos, photos, & audio. Search, store, & retrieve your reports, health & shopping data using AI.
+Business: Olilo AI is built to serve the unique and diverse needs of businesses in different languages. Save time and money using pocket-friendly AI support chat agents, shopping assistants, and an AI staff for business intelligence, sales insights, fraud detection, and much more!
 
-A privacy-first approach to AI, Personal Data & Data Ownership. With olilo, your conversations are just that – private. You can trust our AI to keep your discussions confidential, whether you're discussing work, personal matters, or even just having a friendly chat.
+Personal: olilo is an AI tool to connect and chat with all your digital data spread across multiple files, formats, and platforms. Chat with PDFs, docs, videos, photos, & audio. Search, store, & retrieve your reports, health & shopping data using AI.
+
 
 olilo is developed with the community by a privacy & product-first team. Experience the future of AI with a private, personalized, and privacy-first approach. Your Personal AI Companion: olilo is your partner in productivity, convenience, and peace of mind.
-
-Your Personal AI Companion: olilo is your partner in productivity, giving you superpowers and access to your entire digital data like never before.
 
 
 
